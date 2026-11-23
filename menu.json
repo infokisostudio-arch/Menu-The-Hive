@@ -1,0 +1,2422 @@
+{
+  "versione": 1,
+  "categorie": [
+    {
+      "sezione": "formule",
+      "nome": {
+        "it": "Formule",
+        "en": "Set menus"
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "the lunch break",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "12.00–14.45 · all you can eat + 1 soft drink (acqua, bibita, birra piccola o un calice di vino). Altri drink con supplemento.",
+            "en": "12.00–14.45 · all you can eat + 1 soft drink (water, soda, small beer or a glass of wine). Other drinks at an extra charge."
+          },
+          "prezzo": 14,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "pinsa no stop",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "18.00–22.00 · + 1 drink, bibita o analcolico (i gin con supplemento). Bambini sotto i 10 anni: 10€ con 1 bibita. Tutto il tavolo sceglie la formula, 1 pinsa per volta a persona. Scegli la pinsa che preferisci dalla lista!",
+            "en": "18.00–22.00 · + 1 drink, soft drink or non-alcoholic drink (gin at an extra charge). Children under 10: €10 with 1 soft drink. The whole table chooses the deal, 1 pinsa at a time per person. Choose the pinsa you like from the list!"
+          },
+          "prezzo": 18,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "rosse",
+      "nome": {
+        "it": "Pinse rosse",
+        "en": "Red pinse"
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Margherita",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella",
+            "en": "Tomato, mozzarella"
+          },
+          "prezzo": 7.5,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Rossa",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, origano",
+            "en": "Tomato, oregano"
+          },
+          "prezzo": 5,
+          "allergeni": [
+            1
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Napoli",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella, alici",
+            "en": "Tomato, mozzarella, anchovies"
+          },
+          "prezzo": 8,
+          "allergeni": [
+            1,
+            4,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Diavola",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella, salame piccante",
+            "en": "Tomato, mozzarella, spicy salami"
+          },
+          "prezzo": 8,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "’Nduja",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella, ’nduja",
+            "en": "Tomato, mozzarella, ’nduja"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Porcina",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella, funghi porcini",
+            "en": "Tomato, mozzarella, porcini mushrooms"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Norma",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, melanzane, ricotta salata",
+            "en": "Tomato, aubergine, salted ricotta"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Capricciosa",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella, uova, olive, prosciutto cotto, carciofi",
+            "en": "Tomato, mozzarella, egg, olives, cooked ham, artichokes"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            3,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Salsiccia",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella, salsiccia",
+            "en": "Tomato, mozzarella, sausage"
+          },
+          "prezzo": 8,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Funghi",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella, funghi",
+            "en": "Tomato, mozzarella, mushrooms"
+          },
+          "prezzo": 8,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Parmigiana",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella, melanzane",
+            "en": "Tomato, mozzarella, aubergine"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Amatriciana",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, guanciale, pecorino",
+            "en": "Tomato, guanciale (cured pork cheek), pecorino"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Pata-wurstel",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, mozzarella, würstel, patate",
+            "en": "Tomato, mozzarella, wurstel, potatoes"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Marinara",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, origano, aglio, alici",
+            "en": "Tomato, oregano, garlic, anchovies"
+          },
+          "prezzo": 7,
+          "allergeni": [
+            1,
+            4
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Rossiccia",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Pomodoro, salsiccia, pecorino",
+            "en": "Tomato, sausage, pecorino"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "bianche",
+      "nome": {
+        "it": "Pinse bianche",
+        "en": "White pinse"
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Boscaiola",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, funghi, salsiccia",
+            "en": "Mozzarella, mushrooms, sausage"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Patate",
+            "en": "Potato"
+          },
+          "descrizione": {
+            "it": "Mozzarella, patate",
+            "en": "Mozzarella, potatoes"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Zucchina",
+            "en": "Courgette"
+          },
+          "descrizione": {
+            "it": "Mozzarella, zucchine, stracchino",
+            "en": "Mozzarella, courgettes, stracchino cheese"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cicero",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, prosciutto crudo",
+            "en": "Mozzarella, cured ham"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Genovese",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, pomodorino pachino, provola, pesto",
+            "en": "Mozzarella, Pachino cherry tomatoes, provola cheese, pesto"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7,
+            8
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Speck",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, provola, speck",
+            "en": "Mozzarella, provola cheese, speck"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Carbonara",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, guanciale, pecorino, pepe, uova",
+            "en": "Mozzarella, guanciale (cured pork cheek), pecorino, pepper, egg"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            3,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Tartufata",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, patate, porcini, tartufo",
+            "en": "Mozzarella, potatoes, porcini, truffle"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Quattro formaggi",
+            "en": "Four cheeses"
+          },
+          "descrizione": {
+            "it": "Mozzarella, crema di formaggi, gorgonzola",
+            "en": "Mozzarella, cheese cream, gorgonzola"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Marty",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, patate, salsiccia",
+            "en": "Mozzarella, potatoes, sausage"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Crostino",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, prosciutto cotto",
+            "en": "Mozzarella, cooked ham"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Giggio",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, patate, zucchine, speck",
+            "en": "Mozzarella, potatoes, courgettes, speck"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Salsicciona",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, salsiccia, provola",
+            "en": "Mozzarella, sausage, provola cheese"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cacio e pepe",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, pecorino, pepe",
+            "en": "Mozzarella, pecorino, pepper"
+          },
+          "prezzo": 8,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Pancetta",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, pancetta, provola",
+            "en": "Mozzarella, pancetta, provola cheese"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Ortolana",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, patate, zucchine, melanzane",
+            "en": "Mozzarella, potatoes, courgettes, aubergine"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Friarielli",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, friarielli, salsiccia",
+            "en": "Mozzarella, friarielli (turnip tops), sausage"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Silvia",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, zucchine, prosciutto cotto",
+            "en": "Mozzarella, courgettes, cooked ham"
+          },
+          "prezzo": 10,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Ciccio",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Mozzarella, zucchine, salsiccia",
+            "en": "Mozzarella, courgettes, sausage"
+          },
+          "prezzo": 9,
+          "allergeni": [
+            1,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "lab",
+      "nome": {
+        "it": "Spritz",
+        "en": ""
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Aperol",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 7,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Campari",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 7,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Hugo",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 9,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Limoncello",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 7,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Sarti rosa",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 7,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Passion + Aperol",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 7,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Apertassoni",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 7,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Midori",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 7,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "lab",
+      "nome": {
+        "it": "Classici",
+        "en": "Classics"
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Americano",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Negroni",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Negroni sbagliato",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Boulevardier",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "lab",
+      "nome": {
+        "it": "Originals",
+        "en": ""
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Mojito",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 9,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Piña colada",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Moscow mule",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Margarita",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Old fashioned",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cosmopolitan",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Whiskey sour",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Amaretto sour",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Gin sour",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Rum sour",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Tequila sour",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Midori sour",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Tom Collins",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Mai tai",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Long island ice tea",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Japanese ice tea",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cuba libre",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Daiquiri",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Vodka Redbull",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "lab",
+      "nome": {
+        "it": "Gin therapy",
+        "en": ""
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Gin&tonic classic",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Malfy",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 9.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Hendrick’s",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 11,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Roku",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 11.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Monkey 47",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 12,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Gin Mare",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 12,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Malfy limone",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 9.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Malfy arancia",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 9.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Malfy pompelmo",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 9.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "District Isola",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 13,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Portofino",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 13,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Bulldog",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 10.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Ukiyo",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 15,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "J. Rose",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 15,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Bombay Sapphire",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 12,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Amuerte nero",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 17,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Amuerte rosso",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 17,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Amuerte bianco",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 17,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "lab",
+      "nome": {
+        "it": "Mock · 0% alcol",
+        "en": "Mocktails · 0% alcohol"
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Spritz analcolico",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 7,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Virgin mojito",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Virgin colada",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "soft",
+      "nome": {
+        "it": "Soft drink",
+        "en": ""
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "½ acqua naturale",
+            "en": "½ still water"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "½ acqua frizzante",
+            "en": "½ sparkling water"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Coca Cola",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Coca Cola zero",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Fanta",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Sprite",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Acqua tonica",
+            "en": "Tonic water"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Thè freddo limone",
+            "en": "Iced tea, lemon"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Thè freddo pesca",
+            "en": "Iced tea, peach"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Ginger beer",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cedrata",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Crodino",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Redbull",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "soft",
+      "nome": {
+        "it": "Birre alla spina",
+        "en": "Draft beer"
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Vikingen 0.20",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Vikingen 0.40",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Falkenturm 0.20",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 4,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Falkenturm 0.40",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 6,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "soft",
+      "nome": {
+        "it": "Vino al calice",
+        "en": "Wine by the glass"
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Chardonnay",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 5.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Trebbiano d’Abruzzo",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 6.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Merlot",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 5.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Sangiovese",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 6.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Prosecco brut",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 6,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "soft",
+      "nome": {
+        "it": "Vino in bottiglia",
+        "en": "Wine by the bottle"
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Chardonnay Ca’ del Doge",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 14,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Pinot bianco IGT Ca’ del Doge",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 14,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Trebbiano d’Abruzzo DOC",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 14,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Merlot Ca’ del Doge",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 14,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Sangiovese DOC",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 14,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Montepulciano d’Abruzzo DOC",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 15.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Nero d’Avola DOC",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 16.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cerasuolo d’Abruzzo DOP rosato bio",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 18,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Prosecco brut",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 25,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "morning",
+      "nome": {
+        "it": "Caffetteria",
+        "en": ""
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Espresso",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cappuccino",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Latte macchiato",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2.8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Matcha latte",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 4,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cioccolata calda",
+            "en": "Hot chocolate"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 4.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Iced latte",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 3.6,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Iced americano",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2.6,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Iced matcha latte",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 4.2,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Doppio",
+            "en": "Double espresso"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2.6,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Latte",
+            "en": "Milk"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Macchiato",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cappuccino all’avena",
+            "en": "Oat cappuccino"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cappuccino al ginseng",
+            "en": "Ginseng cappuccino"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cappuccino all’orzo",
+            "en": "Barley cappuccino"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Americano",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2.2,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Corretto",
+            "en": "Espresso with liquor"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Deca",
+            "en": "Decaf"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.6,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Ginseng",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Orzo",
+            "en": "Barley coffee"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Latte caldo",
+            "en": "Hot milk"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Caffè schiumato",
+            "en": "Foamed coffee"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.3,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Thè e infusi",
+            "en": "Tea & infusions"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2.8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Camomilla",
+            "en": "Chamomile"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Succhi di frutta",
+            "en": "Fruit juices"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 2.8,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Biscottini da thè",
+            "en": "Tea biscuits"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 0.5,
+          "allergeni": [
+            1,
+            3,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Muffin",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Frutti rossi o cioccolato",
+            "en": "Red berries or chocolate"
+          },
+          "prezzo": 3.5,
+          "allergeni": [
+            1,
+            3,
+            6,
+            7,
+            13
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Donut glassata *",
+            "en": "Glazed donut *"
+          },
+          "descrizione": {
+            "it": "Fragola, cioccolato bianco, cioccolato e nocciole, pistacchio e granella di pistacchio",
+            "en": "Strawberry, white chocolate, chocolate and hazelnut, pistachio with crushed pistachio"
+          },
+          "prezzo": 2.8,
+          "allergeni": [
+            1,
+            3,
+            6,
+            7,
+            13
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Croissant",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 1.5,
+          "allergeni": [
+            1,
+            3,
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Cookie",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "Con gelato alla vaniglia e panna",
+            "en": "With vanilla ice cream and cream"
+          },
+          "prezzo": 2.8,
+          "allergeni": [
+            1,
+            3,
+            6,
+            7,
+            8,
+            10,
+            13
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    },
+    {
+      "sezione": "dolci",
+      "nome": {
+        "it": "Dolcetti",
+        "en": "Sweets"
+      },
+      "prodotti": [
+        {
+          "nome": {
+            "it": "Cookie con gelato alla vaniglia e panna",
+            "en": "Cookie with vanilla ice cream and cream"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 6,
+          "allergeni": [
+            1,
+            3,
+            6,
+            7,
+            8,
+            10,
+            13
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Fragole, limone & zucchero",
+            "en": "Strawberries, lemon & sugar"
+          },
+          "descrizione": {
+            "it": "Soggetto a disponibilità",
+            "en": "Subject to availability"
+          },
+          "prezzo": 6.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Fragole & panna",
+            "en": "Strawberries & cream"
+          },
+          "descrizione": {
+            "it": "Soggetto a disponibilità",
+            "en": "Subject to availability"
+          },
+          "prezzo": 6.5,
+          "allergeni": [
+            7
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Tortino cioccolato cuore caldo *",
+            "en": "Chocolate lava cake *"
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 6.5,
+          "allergeni": [],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        },
+        {
+          "nome": {
+            "it": "Tartufo bianco *",
+            "en": ""
+          },
+          "descrizione": {
+            "it": "",
+            "en": ""
+          },
+          "prezzo": 6,
+          "allergeni": [
+            1,
+            3,
+            6,
+            7,
+            8
+          ],
+          "disponibile": true,
+          "piattoDelGiorno": false
+        }
+      ]
+    }
+  ]
+}
